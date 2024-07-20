@@ -1,4 +1,4 @@
-# Employee Management System - Angular Application Link - https://employee-management-di47.onrender.com/
+# Employee Management System - Angular Application 
 
 The Employee Management System is a robust Angular application designed to streamline and simplify the management of employee data. This project incorporates Angular Material UI for a modern and user-friendly interface.
 
@@ -12,6 +12,7 @@ The Employee Management System is a robust Angular application designed to strea
 ## Deployment
 
 The backend server is deployed through [Render](https://render.com) to ensure high performance and reliability. The Angular application itself is deployed using GitHub Pages, making it easily accessible to users.
+Link - https://employee-management-di47.onrender.com/
 
 ## Getting Started
 
