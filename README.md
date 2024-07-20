@@ -12,6 +12,7 @@ The Employee Management System is a robust Angular application designed to strea
 ## Deployment
 
 The backend server is deployed through [Render](https://render.com) to ensure high performance and reliability. The Angular application itself is deployed using GitHub Pages, making it easily accessible to users.
+
 Link - https://employee-management-di47.onrender.com/
 
 ## Getting Started
